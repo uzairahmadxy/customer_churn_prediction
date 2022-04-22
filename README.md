@@ -4,7 +4,7 @@ This end-to-end data science project is executed as part of the requirements for
 
 ## Project Description
 
-Telecommunicaion industry has a huge presence in the economic world. It is estimated that the global telecom services was [valued at](https://www.grandviewresearch.com/industry-analysis/global-telecom-services-market)  **USD 1,657.7 billion** in 2020. One of the major problems Telcos (Telecommunicaion Companies) face is customer churn. According to [Profitwell](https://www.smartlook.com/blog/customer-churn-retention/), the average churn rate in telecom businesses is 22%.
+Telecommunicaion industry has a huge presence in the economic world. It is estimated that the global telecom services was [valued at](https://www.grandviewresearch.com/industry-analysis/global-telecom-services-market)  **USD 1,657.7 billion** in 2020. One of the major problems Telcos (Telecommunication Companies) face is customer churn. According to [Profitwell](https://www.smartlook.com/blog/customer-churn-retention/), the average churn rate in telecom businesses is 22%.
 
 The initial analysis involves the following:
 - Data Collection
@@ -21,6 +21,7 @@ The final deployment involves the following:
 - Managing model runs with MLflow
 - Updating & monitoring model in production
 - Deployment using Databricks
+
 To view the code, access the [notebook](final/TelcoChurn_Final_Production.ipynb).
 
 ## Objective
